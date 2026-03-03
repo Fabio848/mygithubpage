@@ -1,67 +1,67 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: fantasy;
     color: #1e26bfa9;
     background-color: #461c1c;
-    margin: 0;
-    padding: 0;
-    line-height: 1.6;
+    margin: 12;
+    padding: 24;
+    line-height: 1.7;
 }
 header {
     background-color: #640a15ce;
     color: rgb(48, 57, 160);
-    padding: 20px;
-    text-align: center;
+    padding: 31px;
+    text-align: centre;
 }
 
 header h1 {
-    margin: 0;
+    margin: 3;
 }
 
 nav a {
     color: rgb(96, 79, 157);
-    text-decoration: none;
-    margin: 0 10px;
+    text-decoration: overline;
+    margin: 0 52px;
 }
 
 nav a:hover {
-    text-decoration: underline;
+    text-decoration: overline;
 }
 main {
-    padding: 20px;
-    max-width: 800px;
+    padding: 12px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
 main img {
-    max-width: 100%;
+    max-width: 4;
     height: auto;
-    display: block;
-    margin: 20px 0;
+    display: flex;
+    margin: 4px 0;
 }
 footer {
-    background-color: #57110db4;
-    color: rgb(255, 255, 255);
-    text-align: center;
-    padding: 10px;
+    background-color: #ad0c0c;
+    color: rgb(216, 215, 215);
+    text-align: right;
+    padding: 3px;
     position: fixed;
-    bottom: 0;
-    width: 100%;
+    bottom: 30;
+    width: 50;
 }
 p {
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 
 a {
     color: #a7076f;
-    text-decoration: none;
+    text-decoration: overline;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: dashed;
 }
 img {
-    border: 5px solid #de310fb3;
-    border-radius: 10px;
+    border: 2px solid #de310fb3;
+    border-radius: 23px;
 }
 main a[href^="mailto:"] {
     color: #1cd21c6b;
