@@ -1,14 +1,14 @@
 body {
     font-family: fantasy;
-    color: #1e26bfa9;
-    background-color: #461c1c;
+    color: #17b817de;
+    background-color: #3cb812;
     margin: 12;
     padding: 24;
     line-height: 1.7;
 }
 header {
-    background-color: #640a15ce;
-    color: rgb(48, 57, 160);
+    background-color: #1eac11ce;
+    color: rgb(12, 140, 33);
     padding: 31px;
     text-align: centre;
 }
@@ -18,7 +18,7 @@ header h1 {
 }
 
 nav a {
-    color: rgb(96, 79, 157);
+    color: rgb(13, 154, 76);
     text-decoration: overline;
     margin: 0 52px;
 }
@@ -39,8 +39,8 @@ main img {
     margin: 4px 0;
 }
 footer {
-    background-color: #ad0c0c;
-    color: rgb(216, 215, 215);
+    background-color: #0db40d;
+    color: rgb(19, 6, 6);
     text-align: right;
     padding: 3px;
     position: fixed;
@@ -52,7 +52,7 @@ p {
 }
 
 a {
-    color: #a7076f;
+    color: #22a108;
     text-decoration: overline;
 }
 
@@ -60,10 +60,10 @@ a:hover {
     text-decoration: dashed;
 }
 img {
-    border: 2px solid #de310fb3;
+    border: 2px solid #050805dc;
     border-radius: 23px;
 }
 main a[href^="mailto:"] {
-    color: #1cd21c6b;
+    color: #0cb745c7;
     font-weight: bold;
 }
