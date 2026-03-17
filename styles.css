@@ -2,13 +2,18 @@ body {
     font-family: fantasy;
     color: #17b817de;
     background-color: #3cb812;
+    background-image: url(OIP\ \(3\).webp);
     margin: 12;
     padding: 24;
     line-height: 1.7;
+    p{color: #f3f1f1;}
+    
 }
 header {
+    
     background-color: #1eac11ce;
     color: rgb(12, 140, 33);
+    p{color: #ebeaea;}
     padding: 31px;
     text-align: centre;
 }
@@ -16,6 +21,8 @@ header {
 header h1 {
     margin: 3;
 }
+
+
 
 nav a {
     color: rgb(13, 154, 76);
@@ -36,7 +43,7 @@ main img {
     max-width: 4;
     height: auto;
     display: flex;
-    margin: 4px 0;
+    margin: 4px ;
 }
 footer {
     background-color: #0db40d;
